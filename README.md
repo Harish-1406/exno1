@@ -1,4 +1,4 @@
-# Exno:1
+<img width="785" height="896" alt="image" src="https://github.com/user-attachments/assets/587499a3-eb0f-4919-be50-ba0c7378676e" /># Exno:1
 Data Cleaning Process
 
 # AIM
@@ -21,6 +21,14 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+            ```
+            import pandas as pd
+            df = pd.read_csv('SAMPLEIDS.csv')
+            print(df)
+            ```
+            <img width="785" height="896" alt="image" src="https://github.com/user-attachments/assets/49fb8a31-3eef-4dad-8616-6870b8c617ee" />
+
+            
 # Result
           <<include your Result here>>
+
