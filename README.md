@@ -234,3 +234,8 @@ print(fmean)
 
 Thus, we have read the given data and performed data cleaning and saved the cleaned data to a file successfully.
 
+# Summary
+By displaying the dataset it helps to analyse data
+Outliers are found using by using IQR and Z Score methods
+Also NULL values can be tackled by fill it with ffill ,mean,median and various methods. Choice of the method depends on the dataset
+By cleaning the data in efficient way we can clearly understand about the dataset.
